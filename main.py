@@ -11,3 +11,13 @@ print("Total: ", sum)
 
 # trial card Ivan
 print("hello Man")
+
+
+
+
+
+
+
+
+#alex
+print("alex paul castillo")
