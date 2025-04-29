@@ -17,3 +17,6 @@ print("alex paul castillo")
 
 #Telan
 print("Hello im SK kagawad: Xean Andrei Telan")
+
+#Pasno
+print("Hello im pasno")
